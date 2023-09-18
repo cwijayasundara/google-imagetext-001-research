@@ -1,0 +1,13 @@
+google-cloud-aiplatform>=1.29.0
+unstructured_pytesseract
+google-cloud-storage
+google-cloud-vision
+seaborn
+scikit-learn
+vertexai
+langchain
+streamlit
+faiss-cpu
+unstructured
+pytesseract
+pdfminer
